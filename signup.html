@@ -1,0 +1,149 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Smart Portables</title>
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+<link rel="stylesheet" type="text/css" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css">
+<link rel="stylesheet" href="styles.css" type="text/css" />
+<!-- <link rel="stylesheet" href="styleglyphicon.css" type="text/css" /> -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<div id="container">
+    <header>
+    	<h1><a href="/">Smart<span>Portables</span></a></h1>
+        <h2></h2>
+    </header>
+    <nav>
+        <ul>
+            <li class="start selected"><a href="/SinglaYatin/Home">Home</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><input type="text" name="search" class="search" placeholder="Search.."></li>
+            <li><a href="login.html">Login</a></li>
+            <li><a href="signup.html">SignUp</a></li>
+        </ul>     
+    </nav>
+
+	<img class="header-image" src="images/image.jpg" alt="Buildings" />
+
+    <div id="body">
+		<section id="content">
+    	    <article>				
+    			<form method="Get" action="/SinglaYatin/SignupServlet">
+                    <h2>SIGN UP</h2>
+                    <table>
+                        <tr>
+                            <td><label>Username</label></td>
+                            <td><input type="text" height="20" width="30" name="username" required></td>
+                        </tr>
+                        <tr>
+                            <td><label>Password</label></td>
+                            <td> <input type="password" name="password" required></td>
+                        </tr>
+                        <tr>
+                            <td><label>ReType Password</label></td>
+                            <td> <input type="password" name="repassword" required></td>
+                        </tr>
+                        <tr>
+                            <select name="usertype">
+                            <option>
+                                Storemanager
+                            </option>
+                            <option>
+                                Customer
+                            </option>
+                            <option>
+                                Salesmen
+                            </option>
+                            </select>
+                            <tr>
+                                <td> <input type="submit" value="Signup"></td> 
+                            </tr>
+                        </tr>
+                    </table>
+                </form>
+
+                Already have an account? <a href="login.html">Login</a>
+    		</article>    	
+        </section>
+        
+        <aside class="sidebar">
+	
+            <ul>	
+               <li>
+                    <h4>Categories</h4>
+                    <ul>
+                        <li><a href="#">Smart Watches</a></li>
+                        <li><a href="#">Speakers</a></li>
+                        <li><a href="#">Headphones</a></li>
+                        <li><a href="#">Phones</a></li>
+                        <li><a href="#">Laptops</a></li>
+                        <li><a href="#">External Storage</a></li>
+                    </ul>
+                </li>
+                
+                <li>
+                    <h4>About us</h4>
+                    <ul>
+                        <li class="text">
+                        	<p style="margin: 0;">The secret of successful retailing is to give your customers what they want. And really, if you think about it from your point of view as a customer, you want everything: a wide assortment of good-quality merchandise; the lowest possible prices; guaranteed satisfaction with what you buy.<a href="#" class="readmore">Read More &raquo;</a></p>
+                        </li>
+                    </ul>
+                </li>
+                
+                <li>
+                	<h4>Search site</h4>
+                    <ul>
+                    	<li class="text">
+                            <form method="get" class="searchform" action="#" >
+                                <p>
+                                    <input type="text" size="30.5" value="" name="s" class="s" placeholder="Search..."/>
+                                    
+                                </p>
+                            </form>	
+						</li>
+					</ul>
+                </li>
+
+            </ul>
+		
+        </aside>
+    	
+        <div class="clear"></div>
+    </div>
+    
+    <footer>
+        <div class="footer-content">
+            <ul>
+            	<li><h4>Proin accumsan</h4></li>
+                <li><a href="#">Rutrum nulla a ultrices</a></li>
+                <li><a href="#">Blandit elementum</a></li>
+                <li><a href="#">Proin placerat accumsan</a></li>
+            </ul>
+            
+            <ul>
+            	<li><h4>Condimentum</h4></li>
+                <li><a href="#">Curabitur sit amet tellus</a></li>
+                <li><a href="#">Morbi hendrerit libero </a></li>
+                <li><a href="#">Proin placerat accumsan</a></li>
+            </ul>
+            
+            <ul class="endfooter">
+            	<li><h4>Suspendisse</h4></li>
+                <li><a href="#">Morbi hendrerit libero </a></li>
+                <li><a href="#">Proin placerat accumsan</a></li>
+                <li><a href="#">Rutrum nulla a ultrices</a></li>
+            </ul>
+            
+            <div class="clear"></div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; Smart Portables 2017.</p>
+        </div>
+    </footer>
+</div>
+</body>
+</html>
