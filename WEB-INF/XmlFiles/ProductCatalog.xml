@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <SmartwatchCatalog>
+    <smartwatch id="1" retailer="GameSpeed">
+        <image>smartwatch1.jpg</image>
+        <name>Smartwatch1</name>
+        <condition>New</condition>
+        <price>399</price>
+        <discount>10%</discount>
+        <accessories>
+            <accessory>smartwatch_acc1</accessory>
+            <accessory>smartwatch_acc2</accessory>
+            <accessory>smartwatch_acc3</accessory>
+            <accessory>smartwatch_acc4</accessory>
+            <accessory>smartwatch_acc5</accessory>
+            <accessory>smartwatch_acc6</accessory>
+        </accessories>
+    </smartwatch>
+    <smartwatch id="2" retailer="GameSpeed">
+        <image>smartwatch2.jpg</image>
+        <name>Smartwatch2</name>
+        <condition>Refurbished</condition>
+        <price>299</price>
+        <discount>20%</discount>
+        <accessories>
+            <accessory>smartwatch_acc1</accessory>
+            <accessory>smartwatch_acc2</accessory>
+            <accessory>smartwatch_acc3</accessory>
+            <accessory>smartwatch_acc4</accessory>
+            <accessory>smartwatch_acc5</accessory>
+            <accessory>smartwatch_acc6</accessory>
+        </accessories>
+    </smartwatch>
+    <smartwatch id="3" retailer="GameSpeed">
+        <image>smartwatch3.jpg</image>
+        <name>Smartwatch3</name>
+        <condition>New</condition>
+        <price>399</price>
+        <discount>25%</discount>
+        <accessories>
+            <accessory>smartwatch_acc1</accessory>
+            <accessory>smartwatch_acc2</accessory>
+            <accessory>smartwatch_acc3</accessory>
+            <accessory>smartwatch_acc4</accessory>
+            <accessory>smartwatch_acc5</accessory>
+            <accessory>smartwatch_acc6</accessory>
+        </accessories>
+    </smartwatch>
+    <smartwatch id="4" retailer="GameSpeed">
+        <image>smartwatch1.jpg</image>
+        <name>Smartwatch4</name>
+        <condition>New</condition>
+        <price>399</price>
+        <discount>10%</discount>
+        <accessories>
+            <accessory>smartwatch_acc1</accessory>
+            <accessory>smartwatch_acc2</accessory>
+            <accessory>smartwatch_acc3</accessory>
+            <accessory>smartwatch_acc4</accessory>
+            <accessory>smartwatch_acc5</accessory>
+            <accessory>smartwatch_acc6</accessory>
+        </accessories>
+    </smartwatch>
+    <smartwatch id="5" retailer="GameSpeed">
+        <image>smartwatch2.jpg</image>
+        <name>Smartwatch5</name>
+        <condition>Refurbished</condition>
+        <price>299</price>
+        <discount>15%</discount>
+        <accessories>
+            <accessory>smartwatch_acc1</accessory>
+            <accessory>smartwatch_acc2</accessory>
+            <accessory>smartwatch_acc3</accessory>
+            <accessory>smartwatch_acc4</accessory>
+            <accessory>smartwatch_acc5</accessory>
+            <accessory>smartwatch_acc6</accessory>
+        </accessories>
+    </smartwatch>
+    <smartwatch id="6" retailer="GameSpeed">
+        <image>smartwatch3.jpg</image>
+        <name>Smartwatch6</name>
+        <condition>New</condition>
+        <price>399</price>
+        <discount>25%</discount>
+        <accessories>
+            <accessory>smartwatch_acc1</accessory>
+            <accessory>smartwatch_acc2</accessory>
+            <accessory>smartwatch_acc3</accessory>
+            <accessory>smartwatch_acc4</accessory>
+            <accessory>smartwatch_acc5</accessory>
+            <accessory>smartwatch_acc6</accessory>
+        </accessories>
+    </smartwatch>
+    <smartwatch id="7" retailer="GameSpeed">
+        <image>smartwatch1.jpg</image>
+        <name>Smartwatch7</name>
+        <condition>Refurbished</condition>
+        <price>299</price>
+        <discount>10%</discount>
+        <accessories>
+            <accessory>smartwatch_acc1</accessory>
+            <accessory>smartwatch_acc2</accessory>
+            <accessory>smartwatch_acc3</accessory>
+            <accessory>smartwatch_acc4</accessory>
+            <accessory>smartwatch_acc5</accessory>
+            <accessory>smartwatch_acc6</accessory>
+        </accessories>
+    </smartwatch>
+    <smartwatch id="8" retailer="GameSpeed">
+        <image>smartwatch2.jpg</image>
+        <name>Smartwatch8</name>
+        <condition>Refurbished</condition>
+        <price>299</price>
+        <discount>15%</discount>
+        <accessories>
+            <accessory>smartwatch_acc1</accessory>
+            <accessory>smartwatch_acc2</accessory>
+            <accessory>smartwatch_acc3</accessory>
+            <accessory>smartwatch_acc4</accessory>
+            <accessory>smartwatch_acc5</accessory>
+            <accessory>smartwatch_acc6</accessory>
+        </accessories>
+    </smartwatch>
+    <smartwatch id="9" retailer="GameSpeed">
+        <image>smartwatch3.jpg</image>
+        <name>Smartwatch9</name>
+        <condition>New</condition>
+        <price>399</price>
+        <discount>25%</discount>
+        <accessories>
+            <accessory>smartwatch_acc1</accessory>
+            <accessory>smartwatch_acc2</accessory>
+            <accessory>smartwatch_acc3</accessory>
+            <accessory>smartwatch_acc4</accessory>
+            <accessory>smartwatch_acc5</accessory>
+            <accessory>smartwatch_acc6</accessory>
+        </accessories>
+    </smartwatch>
+    <smartwatch id="10" retailer="GameSpeed">
+        <image>smartwatch1.jpg</image>
+        <name>Smartwatch10</name>
+        <condition>Refurbished</condition>
+        <price>299</price>
+        <discount>10%</discount>
+        <accessories>
+            <accessory>smartwatch_acc1</accessory>
+            <accessory>smartwatch_acc2</accessory>
+            <accessory>smartwatch_acc3</accessory>
+            <accessory>smartwatch_acc4</accessory>
+            <accessory>smartwatch_acc5</accessory>
+            <accessory>smartwatch_acc6</accessory>
+        </accessories>
+    </smartwatch>
+    
+    </SmartwatchCatalog>
+    <HeadphoneCatalog>
+    <headphone id="11" retailer="GameSpeed">
+        <himage>headphone1.jpg</himage>
+        <hname>Headphone1</hname>
+        <hcondition>Refurbished</hcondition>
+        <hprice>299</hprice>
+        <hdiscount>15%</hdiscount>
+        <haccessories>
+            <haccessory>headphone_acc1</haccessory>
+            <haccessory>headphone_acc2</haccessory>
+            <haccessory>headphone_acc3</haccessory>
+            <haccessory>headphone_acc4</haccessory>
+            <haccessory>headphone_acc5</haccessory>
+            <haccessory>headphone_acc6</haccessory>
+        </haccessories>
+    </headphone>
+    <headphone id="12" retailer="GameSpeed">
+        <himage>headphone2.jpg</himage>
+        <hname>Headphone2</hname>
+        <hcondition>New</hcondition>
+        <hprice>399</hprice>
+        <hdiscount>25%</hdiscount>
+        <haccessories>
+            <haccessory>headphone_acc1</haccessory>
+            <haccessory>headphone_acc2</haccessory>
+            <haccessory>headphone_acc3</haccessory>
+            <haccessory>headphone_acc4</haccessory>
+            <haccessory>headphone_acc5</haccessory>
+            <haccessory>headphone_acc6</haccessory>
+        </haccessories>
+    </headphone>
+    <headphone id="13" retailer="GameSpeed">
+        <himage>headphone3.jpg</himage>
+        <hname>Headphone3</hname>
+        <hcondition>Refurbished</hcondition>
+        <hprice>299</hprice>
+        <hdiscount>10%</hdiscount>
+        <haccessories>
+            <haccessory>headphone_acc1</haccessory>
+            <haccessory>headphone_acc2</haccessory>
+            <haccessory>headphone_acc3</haccessory>
+            <haccessory>headphone_acc4</haccessory>
+            <haccessory>headphone_acc5</haccessory>
+            <haccessory>headphone_acc6</haccessory>
+        </haccessories>
+    </headphone>
+    <headphone id="14" retailer="GameSpeed">
+        <himage>headphone1.jpg</himage>
+        <hname>Headphone4</hname>
+        <hcondition>Refurbished</hcondition>
+        <hprice>299</hprice>
+        <hdiscount>15%</hdiscount>
+        <haccessories>
+            <haccessory>headphone_acc1</haccessory>
+            <haccessory>headphone_acc2</haccessory>
+            <haccessory>headphone_acc3</haccessory>
+            <haccessory>headphone_acc4</haccessory>
+            <haccessory>headphone_acc5</haccessory>
+            <haccessory>headphone_acc6</haccessory>
+        </haccessories>
+    </headphone>
+    <headphone id="15" retailer="GameSpeed">
+        <himage>headphone2.jpg</himage>
+        <hname>Headphone5</hname>
+        <hcondition>New</hcondition>
+        <hprice>399</hprice>
+        <hdiscount>25%</hdiscount>
+        <haccessories>
+            <haccessory>headphone_acc1</haccessory>
+            <haccessory>headphone_acc2</haccessory>
+            <haccessory>headphone_acc3</haccessory>
+            <haccessory>headphone_acc4</haccessory>
+            <haccessory>headphone_acc5</haccessory>
+            <haccessory>headphone_acc6</haccessory>
+        </haccessories>
+    </headphone>
+    <headphone id="16" retailer="GameSpeed">
+        <himage>headphone3.jpg</himage>
+        <hname>Headphone6</hname>
+        <hcondition>Refurbished</hcondition>
+        <hprice>299</hprice>
+        <hdiscount>10%</hdiscount>
+        <haccessories>
+            <haccessory>headphone_acc1</haccessory>
+            <haccessory>headphone_acc2</haccessory>
+            <haccessory>headphone_acc3</haccessory>
+            <haccessory>headphone_acc4</haccessory>
+            <haccessory>headphone_acc5</haccessory>
+            <haccessory>headphone_acc6</haccessory>
+        </haccessories>
+    </headphone>
+    <headphone id="17" retailer="GameSpeed">
+        <himage>headphone1.jpg</himage>
+        <hname>Headphone7</hname>
+        <hcondition>Refurbished</hcondition>
+        <hprice>299</hprice>
+        <hdiscount>15%</hdiscount>
+        <haccessories>
+            <haccessory>headphone_acc1</haccessory>
+            <haccessory>headphone_acc2</haccessory>
+            <haccessory>headphone_acc3</haccessory>
+            <haccessory>headphone_acc4</haccessory>
+            <haccessory>headphone_acc5</haccessory>
+            <haccessory>headphone_acc6</haccessory>
+        </haccessories>
+    </headphone>
+    <headphone id="18" retailer="GameSpeed">
+        <himage>headphone2.jpg</himage>
+        <hname>Headphone8</hname>
+        <hcondition>New</hcondition>
+        <hprice>399</hprice>
+        <hdiscount>25%</hdiscount>
+        <haccessories>
+            <haccessory>headphone_acc1</haccessory>
+            <haccessory>headphone_acc2</haccessory>
+            <haccessory>headphone_acc3</haccessory>
+            <haccessory>headphone_acc4</haccessory>
+            <haccessory>headphone_acc5</haccessory>
+            <haccessory>headphone_acc6</haccessory>
+        </haccessories>
+    </headphone>
+    <headphone id="19" retailer="GameSpeed">
+        <himage>headphone3.jpg</himage>
+        <hname>Headphone9</hname>
+        <hcondition>Refurbished</hcondition>
+        <hprice>299</hprice>
+        <hdiscount>15%</hdiscount>
+        <haccessories>
+            <haccessory>headphone_acc1</haccessory>
+            <haccessory>headphone_acc2</haccessory>
+            <haccessory>headphone_acc3</haccessory>
+            <haccessory>headphone_acc4</haccessory>
+            <haccessory>headphone_acc5</haccessory>
+            <haccessory>headphone_acc6</haccessory>
+        </haccessories>
+    </headphone>
+    <headphone id="20" retailer="GameSpeed">
+        <himage>headphone3.jpg</himage>
+        <hname>Sony</hname>
+        <hcondition>Refurbished</hcondition>
+        <hprice>299</hprice>
+        <hdiscount>10%</hdiscount>
+        <haccessories>
+            <haccessory>headphone_acc1</haccessory>
+            <haccessory>headphone_acc2</haccessory>
+            <haccessory>headphone_acc3</haccessory>
+            <haccessory>headphone_acc4</haccessory>
+            <haccessory>headphone_acc5</haccessory>
+            <haccessory>headphone_acc6</haccessory>
+        </haccessories>
+    </headphone>
+    </HeadphoneCatalog>
+    <SpeakerCatalog>
+    <speaker id="21" retailer="GameSpeed">
+        <simage>speaker1.jpg</simage>
+        <sname>Speaker1</sname>
+        <scondition>New</scondition>
+        <sprice>399</sprice>
+        <sdiscount>10%</sdiscount>
+        <saccessories>
+            <saccessory>speaker_acc1</saccessory>
+            <saccessory>speaker_acc2</saccessory>
+            <saccessory>speaker_acc3</saccessory>
+            <saccessory>speaker_acc4</saccessory>
+            <saccessory>speaker_acc5</saccessory>
+            <saccessory>speaker_acc6</saccessory>
+        </saccessories>
+    </speaker>
+    <speaker id="22" retailer="GameSpeed">
+        <simage>speaker2.jpg</simage>
+        <sname>Speaker2</sname>
+        <scondition>New</scondition>
+        <sprice>399</sprice>
+        <sdiscount>10%</sdiscount>
+        <saccessories>
+            <saccessory>speaker_acc1</saccessory>
+            <saccessory>speaker_acc2</saccessory>
+            <saccessory>speaker_acc3</saccessory>
+            <saccessory>speaker_acc4</saccessory>
+            <saccessory>speaker_acc5</saccessory>
+            <saccessory>speaker_acc6</saccessory>
+        </saccessories>
+    </speaker>
+    <speaker id="23" retailer="GameSpeed">
+        <simage>speaker3.jpg</simage>
+        <sname>Speaker3</sname>
+        <scondition>New</scondition>
+        <sprice>399</sprice>
+        <sdiscount>10%</sdiscount>
+        <saccessories>
+            <saccessory>speaker_acc1</saccessory>
+            <saccessory>speaker_acc2</saccessory>
+            <saccessory>speaker_acc3</saccessory>
+            <saccessory>speaker_acc4</saccessory>
+            <saccessory>speaker_acc5</saccessory>
+            <saccessory>speaker_acc6</saccessory>
+        </saccessories>
+    </speaker>
+    <speaker id="24" retailer="GameSpeed">
+        <simage>speaker1.jpg</simage>
+        <sname>Speaker4</sname>
+        <scondition>New</scondition>
+        <sprice>399</sprice>
+        <sdiscount>10%</sdiscount>
+        <saccessories>
+            <saccessory>speaker_acc1</saccessory>
+            <saccessory>speaker_acc2</saccessory>
+            <saccessory>speaker_acc3</saccessory>
+            <saccessory>speaker_acc4</saccessory>
+            <saccessory>speaker_acc5</saccessory>
+            <saccessory>speaker_acc6</saccessory>
+        </saccessories>
+    </speaker>
+    <speaker id="25" retailer="GameSpeed">
+        <simage>speaker2.jpg</simage>
+        <sname>Speaker5</sname>
+        <scondition>New</scondition>
+        <sprice>399</sprice>
+        <sdiscount>10%</sdiscount>
+        <saccessories>
+            <saccessory>speaker_acc1</saccessory>
+            <saccessory>speaker_acc2</saccessory>
+            <saccessory>speaker_acc3</saccessory>
+            <saccessory>speaker_acc4</saccessory>
+            <saccessory>speaker_acc5</saccessory>
+            <saccessory>speaker_acc6</saccessory>
+        </saccessories>
+    </speaker>
+    <speaker id="26" retailer="GameSpeed">
+        <simage>speaker3.jpg</simage>
+        <sname>Speaker6</sname>
+        <scondition>New</scondition>
+        <sprice>399</sprice>
+        <sdiscount>10%</sdiscount>
+        <saccessories>
+            <saccessory>speaker_acc1</saccessory>
+            <saccessory>speaker_acc2</saccessory>
+            <saccessory>speaker_acc3</saccessory>
+            <saccessory>speaker_acc4</saccessory>
+            <saccessory>speaker_acc5</saccessory>
+            <saccessory>speaker_acc6</saccessory>
+        </saccessories>
+    </speaker>
+    <speaker id="27" retailer="GameSpeed">
+        <simage>speaker1.jpg</simage>
+        <sname>Speaker7</sname>
+        <scondition>New</scondition>
+        <sprice>399</sprice>
+        <sdiscount>10%</sdiscount>
+        <saccessories>
+            <saccessory>speaker_acc1</saccessory>
+            <saccessory>speaker_acc2</saccessory>
+            <saccessory>speaker_acc3</saccessory>
+            <saccessory>speaker_acc4</saccessory>
+            <saccessory>speaker_acc5</saccessory>
+            <saccessory>speaker_acc6</saccessory>
+        </saccessories>
+    </speaker>
+    <speaker id="28" retailer="GameSpeed">
+        <simage>speaker2.jpg</simage>
+        <sname>Mohu</sname>
+        <scondition>New</scondition>
+        <sprice>399</sprice>
+        <sdiscount>10%</sdiscount>
+        <saccessories>
+            <saccessory>speaker_acc1</saccessory>
+            <saccessory>speaker_acc2</saccessory>
+            <saccessory>speaker_acc3</saccessory>
+            <saccessory>speaker_acc4</saccessory>
+            <saccessory>speaker_acc5</saccessory>
+            <saccessory>speaker_acc6</saccessory>
+        </saccessories>
+    </speaker>
+    <speaker id="29" retailer="GameSpeed">
+        <simage>speaker3.jpg</simage>
+        <sname>Speaker9</sname>
+        <scondition>New</scondition>
+        <sprice>399</sprice>
+        <sdiscount>10%</sdiscount>
+        <saccessories>
+            <saccessory>speaker_acc1</saccessory>
+            <saccessory>speaker_acc2</saccessory>
+            <saccessory>speaker_acc3</saccessory>
+            <saccessory>speaker_acc4</saccessory>
+            <saccessory>speaker_acc5</saccessory>
+            <saccessory>speaker_acc6</saccessory>
+        </saccessories>
+    </speaker>
+    <speaker id="30" retailer="GameSpeed">
+        <simage>speaker1.jpg</simage>
+        <sname>Speaker10</sname>
+        <scondition>New</scondition>
+        <sprice>399</sprice>
+        <sdiscount>10%</sdiscount>
+        <saccessories>
+            <saccessory>speaker_acc1</saccessory>
+            <saccessory>speaker_acc2</saccessory>
+            <saccessory>speaker_acc3</saccessory>
+            <saccessory>speaker_acc4</saccessory>
+            <saccessory>speaker_acc5</saccessory>
+            <saccessory>speaker_acc6</saccessory>
+        </saccessories>
+    </speaker>
+</SpeakerCatalog>
+<PhoneCatalog>
+    <phone id="31" retailer="GameSpeed">
+        <pimage>phone1.jpg</pimage>
+        <pname>Phone1</pname>
+        <pcondition>New</pcondition>
+        <pprice>399</pprice>
+        <pdiscount>10%</pdiscount>
+        <paccessories>
+            <paccessory>phone_acc1</paccessory>
+            <paccessory>phone_acc2</paccessory>
+            <paccessory>phone_acc3</paccessory>
+            <paccessory>phone_acc4</paccessory>
+            <paccessory>phone_acc5</paccessory>
+            <paccessory>phone_acc6</paccessory>
+        </paccessories>
+    </phone>
+    <phone id="32" retailer="GameSpeed">
+        <pimage>phone2.jpg</pimage>
+        <pname>Phone2</pname>
+        <pcondition>New</pcondition>
+        <pprice>399</pprice>
+        <pdiscount>10%</pdiscount>
+        <paccessories>
+            <paccessory>phone_acc1</paccessory>
+            <paccessory>phone_acc2</paccessory>
+            <paccessory>phone_acc3</paccessory>
+            <paccessory>phone_acc4</paccessory>
+            <paccessory>phone_acc5</paccessory>
+            <paccessory>phone_acc6</paccessory>
+        </paccessories>
+    </phone>
+    <phone id="33" retailer="GameSpeed">
+        <pimage>phone3.jpg</pimage>
+        <pname>Phone3</pname>
+        <pcondition>New</pcondition>
+        <pprice>399</pprice>
+        <pdiscount>10%</pdiscount>
+        <paccessories>
+            <paccessory>phone_acc1</paccessory>
+            <paccessory>phone_acc2</paccessory>
+            <paccessory>phone_acc3</paccessory>
+            <paccessory>phone_acc4</paccessory>
+            <paccessory>phone_acc5</paccessory>
+            <paccessory>phone_acc6</paccessory>
+        </paccessories>
+    </phone>
+    <phone id="34" retailer="GameSpeed">
+        <pimage>phone1.jpg</pimage>
+        <pname>Phone4</pname>
+        <pcondition>New</pcondition>
+        <pprice>399</pprice>
+        <pdiscount>10%</pdiscount>
+        <paccessories>
+            <paccessory>phone_acc1</paccessory>
+            <paccessory>phone_acc2</paccessory>
+            <paccessory>phone_acc3</paccessory>
+            <paccessory>phone_acc4</paccessory>
+            <paccessory>phone_acc5</paccessory>
+            <paccessory>phone_acc6</paccessory>
+        </paccessories>
+    </phone>
+    <phone id="35" retailer="GameSpeed">
+        <pimage>phone2.jpg</pimage>
+        <pname>Phone5</pname>
+        <pcondition>New</pcondition>
+        <pprice>399</pprice>
+        <pdiscount>10%</pdiscount>
+        <paccessories>
+            <paccessory>phone_acc1</paccessory>
+            <paccessory>phone_acc2</paccessory>
+            <paccessory>phone_acc3</paccessory>
+            <paccessory>phone_acc4</paccessory>
+            <paccessory>phone_acc5</paccessory>
+            <paccessory>phone_acc6</paccessory>
+        </paccessories>
+    </phone>
+    <phone id="36" retailer="GameSpeed">
+        <pimage>phone3.jpg</pimage>
+        <pname>Phone6</pname>
+        <pcondition>New</pcondition>
+        <pprice>399</pprice>
+        <pdiscount>10%</pdiscount>
+        <paccessories>
+            <paccessory>phone_acc1</paccessory>
+            <paccessory>phone_acc2</paccessory>
+            <paccessory>phone_acc3</paccessory>
+            <paccessory>phone_acc4</paccessory>
+            <paccessory>phone_acc5</paccessory>
+            <paccessory>phone_acc6</paccessory>
+        </paccessories>
+    </phone>
+    <phone id="37" retailer="GameSpeed">
+        <pimage>phone1.jpg</pimage>
+        <pname>Phone7</pname>
+        <pcondition>New</pcondition>
+        <pprice>399</pprice>
+        <pdiscount>10%</pdiscount>
+        <paccessories>
+           <paccessory>phone_acc1</paccessory>
+            <paccessory>phone_acc2</paccessory>
+            <paccessory>phone_acc3</paccessory>
+            <paccessory>phone_acc4</paccessory>
+            <paccessory>phone_acc5</paccessory>
+            <paccessory>phone_acc6</paccessory>
+        </paccessories>
+    </phone>
+    <phone id="38" retailer="GameSpeed">
+        <pimage>phone2.jpg</pimage>
+        <pname>Phone8</pname>
+        <pcondition>New</pcondition>
+        <pprice>399</pprice>
+        <pdiscount>10%</pdiscount>
+        <paccessories>
+            <paccessory>phone_acc1</paccessory>
+            <paccessory>phone_acc2</paccessory>
+            <paccessory>phone_acc3</paccessory>
+            <paccessory>phone_acc4</paccessory>
+            <paccessory>phone_acc5</paccessory>
+            <paccessory>phone_acc6</paccessory>
+        </paccessories>
+    </phone>
+    <phone id="39" retailer="GameSpeed">
+        <pimage>phone3.jpg</pimage>
+        <pname>Phone9</pname>
+        <pcondition>New</pcondition>
+        <pprice>399</pprice>
+        <pdiscount>10%</pdiscount>
+        <paccessories>
+            <paccessory>phone_acc1</paccessory>
+            <paccessory>phone_acc2</paccessory>
+            <paccessory>phone_acc3</paccessory>
+            <paccessory>phone_acc4</paccessory>
+            <paccessory>phone_acc5</paccessory>
+            <paccessory>phone_acc6</paccessory>
+        </paccessories>
+    </phone>
+    <phone id="40" retailer="GameSpeed">
+        <pimage>phone1.jpg</pimage>
+        <pname>Phone10</pname>
+        <pcondition>New</pcondition>
+        <pprice>399</pprice>
+        <pdiscount>10%</pdiscount>
+        <paccessories>
+            <paccessory>phone_acc1</paccessory>
+            <paccessory>phone_acc2</paccessory>
+            <paccessory>phone_acc3</paccessory>
+            <paccessory>phone_acc4</paccessory>
+            <paccessory>phone_acc5</paccessory>
+            <paccessory>phone_acc6</paccessory>
+        </paccessories>
+    </phone>
+</PhoneCatalog>
+<LaptopCatalog>
+    <laptop id="41" retailer="GameSpeed">
+        <limage>laptop1.jpg</limage>
+        <lname>Laptop1</lname>
+        <lcondition>New</lcondition>
+        <lprice>399</lprice>
+        <ldiscount>10%</ldiscount>
+        <laccessories>
+            <laccessory>laptop_acc1</laccessory>
+            <laccessory>laptop_acc2</laccessory>
+            <laccessory>laptop_acc3</laccessory>
+            <laccessory>laptop_acc4</laccessory>
+            <laccessory>laptop_acc5</laccessory>
+            <laccessory>laptop_acc6</laccessory>
+        </laccessories>
+    </laptop>
+    <laptop id="42" retailer="GameSpeed">
+        <limage>laptop2.jpg</limage>
+        <lname>Laptop2</lname>
+        <lcondition>New</lcondition>
+        <lprice>399</lprice>
+        <ldiscount>10%</ldiscount>
+        <laccessories>
+            <laccessory>laptop_acc1</laccessory>
+            <laccessory>laptop_acc2</laccessory>
+            <laccessory>laptop_acc3</laccessory>
+            <laccessory>laptop_acc4</laccessory>
+            <laccessory>laptop_acc5</laccessory>
+            <laccessory>laptop_acc6</laccessory>
+        </laccessories>
+    </laptop>
+    <laptop id="43" retailer="GameSpeed">
+        <limage>laptop3.jpg</limage>
+        <lname>Laptop3</lname>
+        <lcondition>New</lcondition>
+        <lprice>399</lprice>
+        <ldiscount>10%</ldiscount>
+        <laccessories>
+            <laccessory>laptop_acc1</laccessory>
+            <laccessory>laptop_acc2</laccessory>
+            <laccessory>laptop_acc3</laccessory>
+            <laccessory>laptop_acc4</laccessory>
+            <laccessory>laptop_acc5</laccessory>
+            <laccessory>laptop_acc6</laccessory>
+        </laccessories>
+    </laptop>
+    <laptop id="44" retailer="GameSpeed">
+        <limage>laptop1.jpg</limage>
+        <lname>Laptop4</lname>
+        <lcondition>New</lcondition>
+        <lprice>399</lprice>
+        <ldiscount>10%</ldiscount>
+        <laccessories>
+            <laccessory>laptop_acc1</laccessory>
+            <laccessory>laptop_acc2</laccessory>
+            <laccessory>laptop_acc3</laccessory>
+            <laccessory>laptop_acc4</laccessory>
+            <laccessory>laptop_acc5</laccessory>
+            <laccessory>laptop_acc6</laccessory>
+        </laccessories>
+    </laptop>
+    <laptop id="45" retailer="GameSpeed">
+        <limage>laptop2.jpg</limage>
+        <lname>Laptop5</lname>
+        <lcondition>New</lcondition>
+        <lprice>399</lprice>
+        <ldiscount>10%</ldiscount>
+        <laccessories>
+            <laccessory>laptop_acc1</laccessory>
+            <laccessory>laptop_acc2</laccessory>
+            <laccessory>laptop_acc3</laccessory>
+            <laccessory>laptop_acc4</laccessory>
+            <laccessory>laptop_acc5</laccessory>
+            <laccessory>laptop_acc6</laccessory>
+        </laccessories>
+    </laptop>
+    <laptop id="46" retailer="GameSpeed">
+        <limage>laptop3.jpg</limage>
+        <lname>Laptop6</lname>
+        <lcondition>New</lcondition>
+        <lprice>399</lprice>
+        <ldiscount>10%</ldiscount>
+        <laccessories>
+            <laccessory>laptop_acc1</laccessory>
+            <laccessory>laptop_acc2</laccessory>
+            <laccessory>laptop_acc3</laccessory>
+            <laccessory>laptop_acc4</laccessory>
+            <laccessory>laptop_acc5</laccessory>
+            <laccessory>laptop_acc6</laccessory>
+        </laccessories>
+    </laptop>
+    <laptop id="47" retailer="GameSpeed">
+        <limage>laptop1.jpg</limage>
+        <lname>Laptop7</lname>
+        <lcondition>New</lcondition>
+        <lprice>399</lprice>
+        <ldiscount>10%</ldiscount>
+        <laccessories>
+            <laccessory>laptop_acc1</laccessory>
+            <laccessory>laptop_acc2</laccessory>
+            <laccessory>laptop_acc3</laccessory>
+            <laccessory>laptop_acc4</laccessory>
+            <laccessory>laptop_acc5</laccessory>
+            <laccessory>laptop_acc6</laccessory>
+        </laccessories>
+    </laptop>
+    <laptop id="48" retailer="GameSpeed">
+        <limage>laptop2.jpg</limage>
+        <lname>Laptop8</lname>
+        <lcondition>New</lcondition>
+        <lprice>399</lprice>
+        <ldiscount>10%</ldiscount>
+        <laccessories>
+            <laccessory>laptop_acc1</laccessory>
+            <laccessory>laptop_acc2</laccessory>
+            <laccessory>laptop_acc3</laccessory>
+            <laccessory>laptop_acc4</laccessory>
+            <laccessory>laptop_acc5</laccessory>
+            <laccessory>laptop_acc6</laccessory>
+        </laccessories>
+    </laptop>
+    <laptop id="49" retailer="GameSpeed">
+        <limage>laptop3.jpg</limage>
+        <lname>Laptop9</lname>
+        <lcondition>New</lcondition>
+        <lprice>399</lprice>
+        <ldiscount>10%</ldiscount>
+        <laccessories>
+            <laccessory>laptop_acc1</laccessory>
+            <laccessory>laptop_acc2</laccessory>
+            <laccessory>laptop_acc3</laccessory>
+            <laccessory>laptop_acc4</laccessory>
+            <laccessory>laptop_acc5</laccessory>
+            <laccessory>laptop_acc6</laccessory>
+        </laccessories>
+    </laptop>
+    <laptop id="50" retailer="GameSpeed">
+        <limage>laptop1.jpg</limage>
+        <lname>Laptop10</lname>
+        <lcondition>New</lcondition>
+        <lprice>399</lprice>
+        <ldiscount>10%</ldiscount>
+        <laccessories>
+            <laccessory>laptop_acc1</laccessory>
+            <laccessory>laptop_acc2</laccessory>
+            <laccessory>laptop_acc3</laccessory>
+            <laccessory>laptop_acc4</laccessory>
+            <laccessory>laptop_acc5</laccessory>
+            <laccessory>laptop_acc6</laccessory>
+        </laccessories>
+    </laptop>
+</LaptopCatalog>
+<ExternalStorageCatalog>
+    <externalstorage id="51" retailer="GameSpeed">
+        <eimage>external1.jpg</eimage>
+        <ename>External Storage1</ename>
+        <econdition>New</econdition>
+        <eprice>399</eprice>
+        <ediscount>10%</ediscount>
+        <eaccessories>
+            <eaccessory>external_acc1</eaccessory>
+            <eaccessory>external_acc2</eaccessory>
+            <eaccessory>external_acc3</eaccessory>
+            <eaccessory>external_acc4</eaccessory>
+            <eaccessory>external_acc5</eaccessory>
+            <eaccessory>external_acc6</eaccessory>
+        </eaccessories>
+    </externalstorage>
+    <externalstorage id="52" retailer="GameSpeed">
+        <eimage>external2.jpg</eimage>
+        <ename>External Storage2</ename>
+        <econdition>New</econdition>
+        <eprice>399</eprice>
+        <ediscount>10%</ediscount>
+        <eaccessories>
+            <eaccessory>external_acc1</eaccessory>
+            <eaccessory>external_acc2</eaccessory>
+            <eaccessory>external_acc3</eaccessory>
+            <eaccessory>external_acc4</eaccessory>
+            <eaccessory>external_acc5</eaccessory>
+            <eaccessory>external_acc6</eaccessory>
+        </eaccessories>
+    </externalstorage>
+    <externalstorage id="53" retailer="GameSpeed">
+        <eimage>external3.jpg</eimage>
+        <ename>External Storage3</ename>
+        <econdition>New</econdition>
+        <eprice>399</eprice>
+        <ediscount>10%</ediscount>
+        <eaccessories>
+            <eaccessory>external_acc1</eaccessory>
+            <eaccessory>external_acc2</eaccessory>
+            <eaccessory>external_acc3</eaccessory>
+            <eaccessory>external_acc4</eaccessory>
+            <eaccessory>external_acc5</eaccessory>
+            <eaccessory>external_acc6</eaccessory>
+        </eaccessories>
+    </externalstorage>
+    <externalstorage id="54" retailer="GameSpeed">
+        <eimage>external1.jpg</eimage>
+        <ename>External Storage4</ename>
+        <econdition>New</econdition>
+        <eprice>399</eprice>
+        <ediscount>10%</ediscount>
+        <eaccessories>
+            <eaccessory>external_acc1</eaccessory>
+            <eaccessory>external_acc2</eaccessory>
+            <eaccessory>external_acc3</eaccessory>
+            <eaccessory>external_acc4</eaccessory>
+            <eaccessory>external_acc5</eaccessory>
+            <eaccessory>external_acc6</eaccessory>
+        </eaccessories>
+    </externalstorage>
+    <externalstorage id="55" retailer="GameSpeed">
+        <eimage>external2.jpg</eimage>
+        <ename>External Storage5</ename>
+        <econdition>New</econdition>
+        <eprice>399</eprice>
+        <ediscount>10%</ediscount>
+        <eaccessories>
+            <eaccessory>external_acc1</eaccessory>
+            <eaccessory>external_acc2</eaccessory>
+            <eaccessory>external_acc3</eaccessory>
+            <eaccessory>external_acc4</eaccessory>
+            <eaccessory>external_acc5</eaccessory>
+            <eaccessory>external_acc6</eaccessory>
+        </eaccessories>
+    </externalstorage>
+    <externalstorage id="56" retailer="GameSpeed">
+        <eimage>external3.jpg</eimage>
+        <ename>External Storage6</ename>
+        <econdition>New</econdition>
+        <eprice>399</eprice>
+        <ediscount>10%</ediscount>
+        <eaccessories>
+            <eaccessory>external_acc1</eaccessory>
+            <eaccessory>external_acc2</eaccessory>
+            <eaccessory>external_acc3</eaccessory>
+            <eaccessory>external_acc4</eaccessory>
+            <eaccessory>external_acc5</eaccessory>
+            <eaccessory>external_acc6</eaccessory>
+        </eaccessories>
+    </externalstorage>
+    <externalstorage id="57" retailer="GameSpeed">
+        <eimage>external1.jpg</eimage>
+        <ename>External Storage7</ename>
+        <econdition>New</econdition>
+        <eprice>399</eprice>
+        <ediscount>10%</ediscount>
+        <eaccessories>
+            <eaccessory>external_acc1</eaccessory>
+            <eaccessory>external_acc2</eaccessory>
+            <eaccessory>external_acc3</eaccessory>
+            <eaccessory>external_acc4</eaccessory>
+            <eaccessory>external_acc5</eaccessory>
+            <eaccessory>external_acc6</eaccessory>
+        </eaccessories>
+    </externalstorage>
+    <externalstorage id="58" retailer="GameSpeed">
+        <eimage>external2.jpg</eimage>
+        <ename>External Storage8</ename>
+        <econdition>New</econdition>
+        <eprice>399</eprice>
+        <ediscount>10%</ediscount>
+        <eaccessories>
+            <eaccessory>external_acc1</eaccessory>
+            <eaccessory>external_acc2</eaccessory>
+            <eaccessory>external_acc3</eaccessory>
+            <eaccessory>external_acc4</eaccessory>
+            <eaccessory>external_acc5</eaccessory>
+            <eaccessory>external_acc6</eaccessory>
+        </eaccessories>
+    </externalstorage>
+    <externalstorage id="59" retailer="GameSpeed">
+        <eimage>external3.jpg</eimage>
+        <ename>External Storage9</ename>
+        <econdition>New</econdition>
+        <eprice>399</eprice>
+        <ediscount>10%</ediscount>
+        <eaccessories>
+            <eaccessory>external_acc1</eaccessory>
+            <eaccessory>external_acc2</eaccessory>
+            <eaccessory>external_acc3</eaccessory>
+            <eaccessory>external_acc4</eaccessory>
+            <eaccessory>external_acc5</eaccessory>
+            <eaccessory>external_acc6</eaccessory>
+        </eaccessories>
+    </externalstorage>
+    <externalstorage id="60" retailer="GameSpeed">
+        <eimage>external1.jpg</eimage>
+        <ename>External Storage10</ename>
+        <econdition>New</econdition>
+        <eprice>399</eprice>
+        <ediscount>10%</ediscount>
+        <eaccessories>
+            <eaccessory>external_acc1</eaccessory>
+            <eaccessory>external_acc2</eaccessory>
+            <eaccessory>external_acc3</eaccessory>
+            <eaccessory>external_acc4</eaccessory>
+            <eaccessory>external_acc5</eaccessory>
+            <eaccessory>external_acc6</eaccessory>
+        </eaccessories>
+    </externalstorage>
+</ExternalStorageCatalog>
+
+
+    <AccessoryCatalog>
+        <accessorycat id="9001">
+            <aimage>smartwatch1.jpg</aimage>
+            <aname>smartwatch_acc1</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9002">
+            <aimage>smartwatch2.jpg</aimage>
+            <aname>smartwatch_acc2</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9003">
+            <aimage>smartwatch3.jpg</aimage>
+            <aname>smartwatch_acc3</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9004">
+            <aimage>smartwatch1.jpg</aimage>
+            <aname>smartwatch_acc4</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9005">
+            <aimage>smartwatch2.jpg</aimage>
+            <aname>smartwatch_acc5</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9006">
+            <aimage>smartwatch3.jpg</aimage>
+            <aname>smartwatch_acc6</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9007">
+            <aimage>headphone1.jpg</aimage>
+            <aname>headphone_acc1</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9008">
+            <aimage>headphone2.jpg</aimage>
+            <aname>headphone_acc2</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9009">
+            <aimage>headphone3.jpg</aimage>
+            <aname>headphone_acc3</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9010">
+            <aimage>headphone1.jpg</aimage>
+            <aname>headphone_acc4</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9011">
+            <aimage>headphone2.jpg</aimage>
+            <aname>headphone_acc5</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9012">
+            <aimage>headphone3.jpg</aimage>
+            <aname>headphone_acc6</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9013">
+            <aimage>speaker1.jpg</aimage>
+            <aname>speaker_acc1</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9014">
+            <aimage>speaker2.jpg</aimage>
+            <aname>speaker_acc2</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9015">
+            <aimage>speaker3.jpg</aimage>
+            <aname>speaker_acc3</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9016">
+            <aimage>speaker1.jpg</aimage>
+            <aname>speaker_acc4</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9017">
+            <aimage>speaker2.jpg</aimage>
+            <aname>speaker_acc5</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9018">
+            <aimage>speaker3.jpg</aimage>
+            <aname>speaker_acc6</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9019">
+            <aimage>phone1.jpg</aimage>
+            <aname>phone_acc1</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9020">
+            <aimage>phone2.jpg</aimage>
+            <aname>phone_acc2</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9021">
+            <aimage>phone3.jpg</aimage>
+            <aname>phone_acc3</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9022">
+            <aimage>phone1.jpg</aimage>
+            <aname>phone_acc4</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9023">
+            <aimage>phone2.jpg</aimage>
+            <aname>phone_acc5</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9024">
+            <aimage>phone3.jpg</aimage>
+            <aname>phone_acc6</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9025">
+            <aimage>laptop1.jpg</aimage>
+            <aname>laptop_acc1</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9026">
+            <aimage>laptop2.jpg</aimage>
+            <aname>laptop_acc2</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9027">
+            <aimage>laptop3.jpg</aimage>
+            <aname>laptop_acc3</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9028">
+            <aimage>laptop1.jpg</aimage>
+            <aname>laptop_acc4</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9029">
+            <aimage>laptop2.jpg</aimage>
+            <aname>laptop_acc5</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9030">
+            <aimage>laptop3.jpg</aimage>
+            <aname>laptop_acc6</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9031">
+            <aimage>external1.jpg</aimage>
+            <aname>external_acc1</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9032">
+            <aimage>external2.jpg</aimage>
+            <aname>external_acc2</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9033">
+            <aimage>external3.jpg</aimage>
+            <aname>external_acc3</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9034">
+            <aimage>external1.jpg</aimage>
+            <aname>external_acc4</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9035">
+            <aimage>external2.jpg</aimage>
+            <aname>external_acc5</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+        <accessorycat id="9036">
+            <aimage>external3.jpg</aimage>
+            <aname>external_acc6</aname>
+            <acondition>New</acondition>
+            <aprice>399</aprice>
+        </accessorycat>
+    </AccessoryCatalog>
+    
+</ProductCatalog>
